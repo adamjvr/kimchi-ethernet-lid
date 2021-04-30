@@ -2976,10 +2976,10 @@ F 28 "Signal Line Ferrite Bead 0402 (1005 Metric) 300mA 520mOhm" H 13800 7300 50
 	1    0    0    -1  
 $EndComp
 $Comp
-L kimchi_ulid:RC0402FR-071KL R?
+L kimchi_ulid:RC0402FR-071KL R2
 U 1 1 6154EE9A
 P 9800 7750
-F 0 "R?" V 9750 7800 50  0000 L CNN
+F 0 "R2" V 9750 7800 50  0000 L CNN
 F 1 "RC0402FR-071KL" H 9800 7975 50  0001 C CNN
 F 2 "kimchi_ulid:R0402" H 9800 7750 50  0001 C CNN
 F 3 "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf" H 9800 7750 50  0001 C CNN
@@ -3012,10 +3012,10 @@ F 28 " kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resist
 	0    1    1    0   
 $EndComp
 $Comp
-L kimchi_ulid:VDD_3V3 #PWR?
+L kimchi_ulid:VDD_3V3 #PWR0133
 U 1 1 6155AF6B
 P 9800 7550
-F 0 "#PWR?" H 9800 7400 50  0001 C CNN
+F 0 "#PWR0133" H 9800 7400 50  0001 C CNN
 F 1 "VDD_3V3" H 9815 7723 50  0000 C CNN
 F 2 "" H 9800 7550 50  0001 C CNN
 F 3 "" H 9800 7550 50  0001 C CNN
