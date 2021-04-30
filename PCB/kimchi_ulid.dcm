@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 04025A180GAT2A
+F https://datasheets.avx.com/C0GNP0-Dielectric.pdf
+$ENDCMP
+#
+$CMP 0402ZD105KAT2A
+F https://datasheets.avx.com/cx5r.pdf
+$ENDCMP
+#
+$CMP C0402C104K9PACTU
+F https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C103KARACAUTO
+F https://api.kemet.com/component-edge/download/datasheet/C0603C103KARACAUTO.pdf
+$ENDCMP
+#
+$CMP GRM155R61A475MEAAD
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61A475MEAA-01.pdf
+$ENDCMP
+#
+$CMP KSZ9031RNXCC
+F https://ww1.microchip.com/downloads/en/DeviceDoc/00002117F.pdf
+$ENDCMP
+#
+$CMP L829-1J1T-43
+F https://belfuse.com/resources/brochures/magneticsolutions/br-mag-dura-jack-icm-l829-l836.pdf
+$ENDCMP
+#
+$CMP MIC47050-1.2YML-TR
+F https://ww1.microchip.com/downloads/en/DeviceDoc/500-mA-ULDO-with-Low-Input-and-Low-Output-Voltage-DS20006050C.pdf
+$ENDCMP
+#
+$CMP MMZ1005S601CTD25
+F https://product.tdk.com/info/en/catalog/datasheets/beads_automotive_signal_mmz1005_en.pdf?ref_disty=digikey
+$ENDCMP
+#
+$CMP RC0402FR-0710KL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP RC0402FR-071KL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0722RL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0402FR-074K7L
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf
+$ENDCMP
+#
+$CMP RJMG2012211A0FR
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_rjmag.pdf?__cf_chl_jschl_tk__=45e2b1fe95d40242c076e0669ef69a458c8f02f9-1619649926-0-AbnWIIRiuzkodRmI7YoPoKUyfLTRBqvq7RRuB5gGBSgeIs7P-pYhg0A_8F96of6TD79l8t_lthA4hQowU1gCZJZhhLaIdkfqj7wNSr_A40ROhzxENg13GWadHDHyLQomSLb3_gASwP3vQtlUhg5JNSVLkyIs_iIKqXlKOaYG_R3pwmKJsvs3OTlJLJia5dsPbaHqHWS78gRBFtBmgprgX_iEwuugVfVe20ZCMncCqU5rRMqnHg05zZImX5kLNwU1DigZapI3-cJKqsd3Zxpib8jq3sg0jHJFCvdjxlZfOWLqZXAYNKS8nWyUqzfRAOejfIamJLUDWjQu1JYc8-4Wmgn5GovWMhylGKEWYdpAC6IY0v7YODSlc2hHyC7HBUJbK-Tre1rDmSJjJZVvY7OZUsdVieW-mCZ9_JYo2oAtLTnM2yYkZcnqvfqBRGCbbu0RXzH26Ya6WNJPEksMkQZDqQUH6KbTdfj3ApVr7fn1mdLxpaTnmXkSt2GoTmZbZiQk0_l2mYwn0Z5qtHVAFavAZKU79_sszW8Dsl8DeI7PLRc7
+$ENDCMP
+#
+$CMP RMCF0402FT12K1
+F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
+$ENDCMP
+#
+#End Doc Library
