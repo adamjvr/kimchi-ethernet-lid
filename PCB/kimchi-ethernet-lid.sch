@@ -295,10 +295,6 @@ Wire Wire Line
 	10800 2750 9950 2750
 Wire Wire Line
 	10800 2750 10800 2850
-Text GLabel 9950 1250 2    50   Input ~ 0
-PCIE_USB_D_N
-Text GLabel 9950 1350 2    50   Input ~ 0
-PCIE_USB_D_P
 Text GLabel 9950 2450 2    50   Input ~ 0
 UART3_TX
 Text GLabel 9950 2350 2    50   Input ~ 0
@@ -3071,4 +3067,8 @@ F 3 "" H 5200 9950 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5000 9950 5200 9950
+Text GLabel 9950 1250 2    50   Input ~ 0
+USB2_DP
+Text GLabel 9950 1350 2    50   Input ~ 0
+USB2_DN
 $EndSCHEMATC
