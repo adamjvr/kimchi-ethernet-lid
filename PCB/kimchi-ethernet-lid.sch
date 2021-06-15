@@ -383,7 +383,7 @@ Text GLabel 9950 3550 2    50   Input ~ 0
 SAI3_MCLK
 Text GLabel 9950 4050 2    50   Input ~ 0
 SAI3_TXD
-Text GLabel 9950 4150 2    50   Input ~ 0
+Text GLabel 9550 4500 2    50   Input ~ 0
 SAI3_TXC
 Text GLabel 9950 3650 2    50   Input ~ 0
 SAI3_TXFS
@@ -3458,4 +3458,8 @@ Wire Wire Line
 	9550 6150 9950 6150
 Wire Wire Line
 	9800 7550 9800 7500
+Wire Wire Line
+	11250 4150 9950 4150
+Text Label 10650 4150 0    50   ~ 0
+SYS_RESET
 $EndSCHEMATC
